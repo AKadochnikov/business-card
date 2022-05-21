@@ -149,7 +149,7 @@ button.ghost {
 
 .overlay {
     background-color: #282828;
-    background-image: url("../../public/images/photographer-background.jpeg"), url("../../public/images/devops-background-mono.jpg");
+    background-image: url("../../public/images/photographer-background.jpg"), url("../../public/images/devops-background.jpg");
     background-repeat: no-repeat, no-repeat;
     background-position: left, right;
     background-size: 50% auto, 50% auto;
@@ -165,7 +165,7 @@ button.ghost {
 
 @media (min-width: 1800px) {
     .overlay {
-        background-image: url("../../public/images/photographer-background-full.jpeg"), url("../../public/images/devops-background-mono.jpg");
+        background-image: url("../../public/images/photographer-background-full.jpg"), url("../../public/images/devops-background.jpg");
     }
 }
 

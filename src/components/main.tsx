@@ -16,13 +16,13 @@ function Main ():JSX.Element {
                 </div>
                 <div className="form-container sign-in-container">
                     <form action="#">
-                        <h1>Photograph info</h1>
+                        <h1>Photographer info</h1>
                     </form>
                 </div>
                 <div className="overlay-container">
                     <div className="overlay">
                         <div onClick={handleChangePanel} className="overlay-panel overlay-left">
-                            <h1>About photograph</h1>
+                            <h1>About photographer</h1>
                         </div>
                         <div onClick={handleChangePanel} className="overlay-panel overlay-right">
                             <h1>About devOps engineer</h1>
